@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Kartikeyagarwal1292@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Nq78nMH0tHgDLNQ3xygftANzzVpPPLhw/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nq78nMH0tHgDLNQ3xygftANzzVpPPLhw/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
