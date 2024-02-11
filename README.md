@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend developer and aspiring Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1707004800&semt=sph">
 
-
+A passionate and results-driven student pursuing a Bachelor's degree in Data Science and Applications at the esteemed Indian Institute of Technology Madras (IITM). My academic journey also includes a Bachelor's in Computer Science and Engineering from the Global Institute of Technology, Jaipur.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey05&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey05" /> </p>
 
 - 🌱 I’m currently learning **ReactJs, Artificial Intelligence**
@@ -10,9 +10,17 @@
 - 💬 Ask me about **Python, Machine Learning, Front end, Data Science**
 
 - 📫 How to reach me **Kartikeyagarwal1292@gmail.com**
-
+💻 I love turning ideas into reality! Check out my Resusme
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nq78nMH0tHgDLNQ3xygftANzzVpPPLhw/view)
 
+💡 Here are some technologies I'm fluent in:
+
+Front End Development: ReactJS, VueJS, JavaScript, Bootstrap, HTML5, CSS3.
+Back End Development: Java, Python3, Flask, MySQL, SQLite, Rest API, and Redis.
+Data Science: Python3, Machine Learning, Pandas, Numpy, scikit-learn, Matplotlib, SQL.
+🌐 Keen on exploring concepts like Operating Systems, Virtual Memory, Machine Learning, Neural Networks, and more. I'm also certified in Machine Learning, JavaScript, React, and more.
+
+🤝 Let's connect! You can reach me at kartikeyagarwal1292@gmail.com or explore my projects on GitHub. Looking forward to exciting collaborations and opportunities! 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kartikeyagarwal08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeyagarwal08" height="30" width="40" /></a>
