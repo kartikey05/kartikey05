@@ -16,7 +16,9 @@ A passionate and results-driven student pursuing a Bachelor's degree in Data Sci
 💡 Here are some technologies I'm fluent in:
 
 Front End Development: ReactJS, VueJS, JavaScript, Bootstrap, HTML5, CSS3.
+
 Back End Development: Java, Python3, Flask, MySQL, SQLite, Rest API, and Redis.
+
 Data Science: Python3, Machine Learning, Pandas, Numpy, scikit-learn, Matplotlib, SQL.
 🌐 Keen on exploring concepts like Operating Systems, Virtual Memory, Machine Learning, Neural Networks, and more. I'm also certified in Machine Learning, JavaScript, React, and more.
 
