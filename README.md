@@ -11,7 +11,7 @@ A passionate and results-driven student pursuing a Bachelor's degree in Data Sci
 
 - 📫 How to reach me **Kartikeyagarwal1292@gmail.com**
 💻 I love turning ideas into reality! Check out my Resusme
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nq78nMH0tHgDLNQ3xygftANzzVpPPLhw/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KZardGsUqBF_24w-tq0msh_QA2GXDld_/view?usp=sharing) . 
 
 💡 Here are some technologies I'm fluent in:
 
