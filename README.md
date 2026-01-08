@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Agarwal</h1>
-<h3 align="center">A passionate Frontend developer and aspiring Data scientist from India</h3>
+<h3 align="center">A passionate aspiring Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1707004800&semt=sph">
 
 A passionate and results-driven student pursuing a Bachelor's degree in Data Science and Applications at the esteemed Indian Institute of Technology Madras (IITM). My academic journey also includes a Bachelor's in Computer Science and Engineering from the Global Institute of Technology, Jaipur.
