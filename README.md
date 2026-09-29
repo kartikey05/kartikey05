@@ -75,7 +75,7 @@ Much of my work so far has been in healthcare, extracting structured clinical in
 
 | Project | Problem it addresses | Stack |
 |---|---|---|
-| [**REPO_NAME: Medical knowledge graph builder**](https://github.com/kartikey05/REPO_NAME) <!-- TODO: only if public, personal and IP-clean --> | A single LLM's medical relationships are unreliable. Three models extract in parallel, agreements are accepted, and disagreements go to a verification step. | Python, LangGraph, FastAPI |
+| [**REPO_NAME: Medical knowledge graph builder**](https://github.com/kartikey05/Knowledge-graph-builder) <!-- TODO: only if public, personal and IP-clean --> | A single LLM's medical relationships are unreliable. Three models extract in parallel, agreements are accepted, and disagreements go to a verification step. | Python, LangGraph, FastAPI |
 | [**Machine-Learning**](https://github.com/kartikey05/Machine-Learning) | End-to-end solution for the IIT Madras ML project on Kaggle, finishing in the top 10%. <!-- TODO: link the leaderboard in the repo README --> | Python, scikit-learn, pandas |
 | [**TiccBoo**](https://github.com/kartikey05/TICCBOO_REPO) <!-- TODO: confirm repo name --> | Full-stack ticket-booking app with token auth and Redis caching | Flask, SQLAlchemy, Redis, Vue.js |
 
