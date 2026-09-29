@@ -91,8 +91,8 @@ Much of my work so far has been in healthcare, extracting structured clinical in
 
 ### Writing
 <!-- TODO: keep only papers where your name is in the byline -->
-- [Multi-tier Adaptive Evaluation for Clinical NER Systems](https://innovaccer.com/resources/white-papers/multi-tier-adaptive-evaluation-for-clinical-ner-systems) · co-author, white paper
-- [Taming LLMs in Production: Control Patterns for Coding Agents and Clinical Text Generation](https://innovaccer.com/resources/white-papers/taming-llms-in-production-control-patterns-for-coding-agents-and-clinical-text-generation) · co-author, white paper
+- [Multi-tier Adaptive Evaluation for Clinical NER Systems](https://innovaccer.com/resources/white-papers/multi-tier-adaptive-evaluation-for-clinical-ner-systems) · author, white paper
+- [Taming LLMs in Production: Control Patterns for Coding Agents and Clinical Text Generation](https://innovaccer.com/resources/white-papers/taming-llms-in-production-control-patterns-for-coding-agents-and-clinical-text-generation) · author, white paper
 
 ### How I build
 
