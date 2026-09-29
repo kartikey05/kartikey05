@@ -1,41 +1,112 @@
-<h1 align="center">Hi 👋, I'm Kartikey Agarwal</h1>
-<h3 align="center">Data scientist at Innovaccer</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1707004800&semt=sph">
+<!--
+  Profile README for github.com/kartikey05
+  STABLE sections: header, intro, focus areas, how I build   -> review yearly
+  EVOLVING sections: now, selected work, writing, open source -> review every 6 months
+  Placeholders are written as ALL_CAPS or live inside HTML comments. Search for "TODO" before publishing.
+-->
 
-A passionate and results-driven student pursuing a Bachelor's degree in Data Science and Applications at the esteemed Indian Institute of Technology Madras (IITM). My academic journey also includes a Bachelor's in Computer Science and Engineering from the Global Institute of Technology, Jaipur.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey05&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey05" /> </p>
+<h1 align="center">Kartikey Agarwal</h1>
 
-- 🌱 I’m currently learning **ReactJs, Artificial Intelligence**
-
-- 💬 Ask me about **Python, Machine Learning, Front end, Data Science**
-
-- 📫 How to reach me **Kartikeyagarwal1292@gmail.com**
-💻 I love turning ideas into reality! Check out my Resusme
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KZardGsUqBF_24w-tq0msh_QA2GXDld_/view?usp=sharing) . 
-
-💡 Here are some technologies I'm fluent in:
-
-Front End Development: ReactJS, VueJS, JavaScript, Bootstrap, HTML5, CSS3.
-
-Back End Development: Java, Python3, Flask, MySQL, SQLite, Rest API, and Redis.
-
-Data Science: Python3, Machine Learning, Pandas, Numpy, scikit-learn, Matplotlib, SQL.
-🌐 Keen on exploring concepts like Operating Systems, Virtual Memory, Machine Learning, Neural Networks, and more. I'm also certified in Machine Learning, JavaScript, React, and more.
-
-🤝 Let's connect! You can reach me at kartikeyagarwal1292@gmail.com or explore my projects on GitHub. Looking forward to exciting collaborations and opportunities! 🚀
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kartikeyagarwal08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeyagarwal08" height="30" width="40" /></a>
-<a href="https://instagram.com/kartikey._agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartikey._agarwal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@kartikey._agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kartikey._agarwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kartikey_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kartikey_05/" height="30" width="40" /></a>
+<p align="center">
+  <b>Applied AI and ML engineering, from models to production systems</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartikeyagarwal08/">LinkedIn</a>
+  <!-- TODO: uncomment the links you actually have -->
+  <!-- · <a href="https://PORTFOLIO_URL">Portfolio</a> -->
+  <!-- · <a href="https://BLOG_URL">Writing</a> -->
+  <!-- · <a href="mailto:YOUR_EMAIL">Email</a> -->
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikey05&show_icons=true&locale=en&layout=compact" alt="kartikey05" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey05&show_icons=true&locale=en" alt="kartikey05" /></p>
+I build AI systems that turn messy, unstructured data into output other software can rely on. My work sits where machine learning meets software engineering: adapting and evaluating models, building retrieval and agent workflows, and running them behind services that are fast, observable and safe to operate.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey05&" alt="kartikey05" /></p>
+Much of my work so far has been in healthcare, extracting structured clinical information from documents. In that domain a wrong answer is expensive, so I care about evaluation, validation and failure handling as much as model quality.
+
+### What I work on
+
+| Area | Focus |
+|---|---|
+| **Language model systems** | Fine-tuning (LoRA / PEFT), structured generation, evaluation |
+| **Retrieval and knowledge** | Embeddings, vector search, entity and terminology mapping, knowledge graphs |
+| **Agentic workflows** | Multi-step reasoning, orchestration, validation layers, human-in-the-loop review |
+| **Serving and systems** | Efficient inference, async APIs, task queues, observability |
+| **ML foundations** | NLP, deep learning, classical ML, data pipelines |
+
+### Now
+<!-- EVOLVING: update every 6 months. Keep to 2–3 lines. -->
+- Building LLM systems for clinical document understanding and medical coding in industry
+- Exploring: <!-- TODO: e.g. inference optimisation, evaluation methods, agent protocols -->
+
+### Toolbox
+<!-- Add or remove one badge per line. Logos come from simpleicons.org; if a slug doesn't exist the badge still renders, just without a logo. -->
+
+**Core** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**LLMs and NLP** &nbsp;
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-555555?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-555555?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+**Backend and data** &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white)
+
+**Infrastructure and MLOps** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+
+### Selected work
+<!-- EVOLVING: keep 3–5 rows, strongest first. Replace a row when a better repo exists; never pad. -->
+
+| Project | Problem it addresses | Stack |
+|---|---|---|
+| [**REPO_NAME: Medical knowledge graph builder**](https://github.com/kartikey05/REPO_NAME) <!-- TODO: only if public, personal and IP-clean --> | A single LLM's medical relationships are unreliable. Three models extract in parallel, agreements are accepted, and disagreements go to a verification step. | Python, LangGraph, FastAPI |
+| [**Machine-Learning**](https://github.com/kartikey05/Machine-Learning) | End-to-end solution for the IIT Madras ML project on Kaggle, finishing in the top 10%. <!-- TODO: link the leaderboard in the repo README --> | Python, scikit-learn, pandas |
+| [**TiccBoo**](https://github.com/kartikey05/TICCBOO_REPO) <!-- TODO: confirm repo name --> | Full-stack ticket-booking app with token auth and Redis caching | Flask, SQLAlchemy, Redis, Vue.js |
+
+<details>
+<summary><b>Professional work</b> (proprietary, so described without internal details)</summary>
+<br>
+
+- **Clinical document understanding:** OCR with vision models, section-aware chunking, LLM entity extraction, and mapping to standard terminologies (ICD-10, CPT, RxNorm)
+- **Model adaptation and serving:** parameter-efficient fine-tuning of large open models, and serving them for low-latency inference
+- **Multi-agent workflows:** orchestrated agents with structured outputs, rule-based validation and human review before any result is used
+
+</details>
+
+### Writing
+<!-- TODO: keep only papers where your name is in the byline -->
+- [Multi-tier Adaptive Evaluation for Clinical NER Systems](https://innovaccer.com/resources/white-papers/multi-tier-adaptive-evaluation-for-clinical-ner-systems) · co-author, white paper
+- [Taming LLMs in Production: Control Patterns for Coding Agents and Clinical Text Generation](https://innovaccer.com/resources/white-papers/taming-llms-in-production-control-patterns-for-coding-agents-and-clinical-text-generation) · co-author, white paper
+
+### How I build
+
+- **Define "correct" first.** Decide how a system will be evaluated before choosing a model.
+- **Use the simplest thing that meets the bar.** A prompt, a retriever, a fine-tune or plain code.
+- **Treat model output as untrusted input.** Validate structure, check it against rules, and keep a trace back to the source.
+- **Design for failure.** Timeouts, retries, isolation between stages, and logs you can read at 2 a.m.
+- **Leave it runnable.** Clear READMEs, reproducible setup, and tests where they matter.
+
+<!-- OPTIONAL: activate when you have real contributions. Merged PRs only.
+### Open source
+- [project](https://github.com/ORG/REPO/pull/NUMBER): what you changed and why
+-->
+
+<!-- OPTIONAL: stats card. Only use a self-hosted instance; see the setup guide.
+<img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=kartikey05&layout=compact&hide_border=true" alt="Top languages" height="140">
+-->
